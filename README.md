@@ -1,3 +1,5 @@
 # LabReview_Ryoko
 
-Trying to merge
+tring to merge together
+
+
